@@ -1,4 +1,4 @@
-let lines = require('fs').readFileSync("./data/inputW3-1.txt", 'utf-8')
+let lines = require('fs').readFileSync("./data/input3.txt", 'utf-8')
     .split('\n')
 
 // console.log(lines)
